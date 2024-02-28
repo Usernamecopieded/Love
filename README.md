@@ -4,7 +4,7 @@
 
   <h2 align="center"> Love </h2>
 
-  This website is fully responsive , <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  This website is fully responsive , <br />Responsive for all devices, built using HTML JavaScript.
 
   <a href="https://github.com/Usernamecopieded"><strong>➥ Live Demo</strong></a>
   
